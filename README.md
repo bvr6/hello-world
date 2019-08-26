@@ -1,2 +1,3 @@
 # hello-world
-Hello world
+
+I am a Computer Science major at the University of Pittsburgh. I am fluent in mostly Java and learning C and C#. This GitHub will be used for testing purposes so far...
